@@ -7,7 +7,7 @@
     <title>HelloWorld</title>
 </head>
 <body>
-<a href="helloworld.html">Click here to read hello message </a>
+<a href="hello.jsp">Click here to read hello message </a>
 </body>
 </html>
  
