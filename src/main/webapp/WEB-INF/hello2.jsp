@@ -4,10 +4,10 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>HelloWorld</title>
+    <title>Hello</title>
 </head>
 <body>
+Message:<br/>
 <a href="/helloworld">Click here to read hello message </a>
 </body>
 </html>
- 
